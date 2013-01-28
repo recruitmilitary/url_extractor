@@ -4,8 +4,8 @@ require File.expand_path('../lib/url_extractor/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Michael Guterl"]
   gem.email         = ["michael@diminishing.org"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{A tool for extracting and replacing URLs from inside a block of text or HTML.}
+  gem.summary       = %q{A tool for extracting and replacing URLs from inside a block of text or HTML.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
